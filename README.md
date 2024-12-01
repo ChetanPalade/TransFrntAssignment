@@ -1,3 +1,14 @@
+## Checklist Evaluation System
+  This project is a full-stack application built using Node.js for the backend and React.js for the frontend. It fetches input data from a provided API, evaluates checklist rules, and displays the results on a dashboard.
+
+# Features
+ Fetches data from an external API.
+ Evaluates checklist rules dynamically.
+ Displays a dashboard with the evaluation results.
+ Modular and clean codebase for easy maintenance and extensibility.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
